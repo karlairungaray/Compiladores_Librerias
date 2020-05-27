@@ -43,7 +43,7 @@ int main(int argc, char **argv) {
     }
     f=0;
     fclose(fich);
-    /*Fin de lectira del archivo*/
+    /*Fin de lectura del archivo*/
 
     /*Multiplicacion de la matriz por si misma  matrizA * matrizB*/
     for (int a = 0; a < COLUMNAS_MATRIZ_B; a++) {
